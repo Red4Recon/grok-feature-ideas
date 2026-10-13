@@ -3,7 +3,7 @@
 **Bottom line: Cost savings plus retention. $64B a year in Military Health System (MHS) spend is addressable (Mike's figure). No revenue figure is claimed yet.**
 
 ## Problem
-The Military Health System spends $64B a year. About 9.4 veterans die by suicide every day, and many had no VA contact in their final year. Today's AI only answers when you ask, and it forgets you when you hang up.
+The Military Health System spends $64B a year. In 2024, 6,488 veterans died by suicide, an average of 17.7 a day. Of those, 11.0 a day had not recently used VA health care. Today's AI only answers when you ask, and it forgets you when you hang up.
 
 ## Value
 Cost savings and retention against a $64B yearly spend. Even small gains matter: by Mike's earlier math, a 1% efficiency gain would be about $640M a year, before counting lives saved.
@@ -23,3 +23,12 @@ Proactive AI that helps people live longer and better, built on real-world data.
 - Includes the floating voice window (Picture-in-Picture) so coaching never takes over your screen.
 
 [Back to all ideas](../README.md)
+
+## Veteran suicide data
+
+Source: [2026 VA National Veteran Suicide Prevention Annual Report](https://www.mentalhealth.va.gov/docs/data-sheets/2026/CMR_2026_National_Veteran_Suicide_Prevention_Annual_Report.pdf) (released Sept 30, 2026; covers 2024).
+
+- 6,488 veteran suicides in 2024, an average of 17.7 a day (down from 6,662 in 2023; record 7,015 in 2018, about 19 a day).
+- Of the 17.7 a day, 6.7 had recently used VA health care and 11.0 had not.
+- Rates per 100,000 by age: 18-34, 45.5 (highest; men 53.0, women 13.2); 35-54, 38.5; 55-74, 32.7; 75+, 35.8.
+- Overall veteran rate fell from 36.6 to 36.4 per 100,000.
